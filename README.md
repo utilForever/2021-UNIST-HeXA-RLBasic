@@ -1,6 +1,6 @@
 # 2021-UNIST-HeXA-RLBasic
 
-2021-UNIST-HeXA-RLBasic is the material(lecture notes, examples and assignments) repository for learning the basic knowledge of Reinforcement Learning course that I'll teach students at UNIST in the summer of 2021. Note that examples and assignments in this repository uses [PyTorch](https://pytorch.org/).
+2021-UNIST-HeXA-RLBasic is the material(lecture notes, examples and assignments) repository for learning the basic knowledge of Reinforcement Learning course that I'll teach the club 'HeXA' at UNIST in the summer of 2021. Note that examples and assignments in this repository uses [PyTorch](https://pytorch.org/).
 
 ## Book
 
