@@ -18,7 +18,7 @@
 
 ## Contents
 
-- Week 1 (7/24)
+- Week 1 (7/24) [[Lecture]](./1%20-%20Lecture/210724%20-%20Introduction%20to%20RL%2C%20Week%201.pdf)
   - What is Reinforcement Learning?
   - MDP (Markov Decision Process)
     - State
