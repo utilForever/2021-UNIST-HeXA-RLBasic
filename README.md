@@ -28,7 +28,7 @@
     - Discount Factor
     - Policy
   - Value Function and Q-Function
-- Week 2 (7/31)
+- Week 2 (7/31) [[Lecture]](./1%20-%20Lecture/210731%20-%20Introduction%20to%20RL%2C%20Week%202.pdf)
   - Bellman Equation
     - Bellman Expectation Equation
     - Bellman Optimality Equation
