@@ -4,35 +4,55 @@
 
 ## Book
 
-Deep Reinforcement Learning Hands-On - Second Edition (Packt, 2020)
+파이썬과 케라스로 배우는 강화학습 (위키북스, 2020)
 
-![](https://static.packt-cdn.com/products/9781838826994/cover/smaller)
+![](https://wikibook.co.kr/images/cover/m/9791158392017.png)
 
 ## Optional Readings
 
 - Reinforcement Learning, An Introduction - Second Edition (MIT Press, 2018)
   - Korean: 단단한 강화학습 (제이펍, 2020)
+- Deep Reinforcement Learning Hands-On - Second Edition (Packt, 2020)
 - Reinforcement Learning (O'Reilly Media, 2020)
-- 파이썬과 케라스로 배우는 강화학습 (위키북스, 2020)
 - 바닥부터 배우는 강화 학습 (영진닷컴, 2020)
 
 ## Contents
 
 - Week 1 (7/24)
   - What is Reinforcement Learning?
-    - Supervised learning
-    - Unsupervised learning
-    - Reinforcement learning
-    - RL's complications
-    - RL formalisms
-    - The theoretical foundations of RL
-  - OpenAI Gym
-    - The anatomy of the agent
-    - Hardware and software requirements
-    - The OpenAI Gym API
-    - The random CartPole agent
-    - Extra Gym functionality – wrappers and monitors
+  - MDP (Markov Decision Process)
+    - State
+    - Action
+    - Reward Function
+    - State Transition Probability
+    - Discount Factor
+    - Policy
+  - Value Function and Q-Function
 - Week 2 (7/31)
+  - Bellman Equation
+    - Bellman Expectation Equation
+    - Bellman Optimality Equation
+  - Dynamic Programming
+    - Policy Iteration
+    - Value Iteration
+  - Exercise #1
+    - Policy Iteration
+    - Value Iteration
+- Week 3 (8/7)
+  - Policy Evaluation
+    - Monte-Carlo Prediction
+    - Temporal-Difference Prediction
+  - SARSA
+  - Q-Learning
+  - Exercise #2
+    - Monet-Carlo
+    - SARSA
+    - Q-Learning
+- Week 4 (8/14)
+  - Assignment #1 (Maze)
+    - SARSA
+    - Q-Learning
+- Week 5 (8/21)
   - Deep Learning with PyTorch
     - Tensors
     - Gradients
@@ -42,56 +62,21 @@ Deep Reinforcement Learning Hands-On - Second Edition (Packt, 2020)
     - Monitoring with TensorBoard
     - Example – GAN on Atari images
     - PyTorch Ignite
-- Week 3 (8/7)
-  - The Cross-Entropy Method
-    - The taxonomy of RL methods
-    - The cross-entropy method in practice
-    - The cross-entropy method on CartPole
-    - The cross-entropy method on FrozenLake
-    - The theoretical background of the cross-entropy method
-  - Tabular Learning and the Bellman Equation
-    - Value, state, and optimality
-    - The Bellman equation of optimality
-    - The value of the action
-    - The value iteration method
-    - Value iteration in practice
-    - Q-learning for FrozenLake
-- Week 4 (8/14)
-  - Deep Q-Networks
-    - Real-life value iteration
-    - Tabular Q-learning
-    - Deep Q-learning
-    - DQN on Pong
-    - Things to try
-- Week 5 (8/21)
-  - Policy Gradients - an Alternative
-    - Values and policy
-    - The REINFORCE method
-    - REINFORCE issues
-    - Policy gradient methods on CartPole
-    - Policy gradient methods on Pong
 - Week 6 (8/28)
-  - The Actor-Critic Method
-    - Variance reduction
-    - CartPole variance
-    - Actor-critic
-    - A2C on Pong
-    - A2C on Pong results
-    - Tuning hyperparameters
+  - Deep SARSA
+  - Policy Gradient
+    - Policy-based Reinforcement Learning
+    - REINFORCE
+  - Exercise #3
+    - Deep SARSA
+    - REINFORCE
 - Week 7 (9/4)
-  - Asynchronous Advantage Actor-Critic
-    - Correlation and sample efficiency
-    - Adding an extra A to A2C
-    - Multiprocessing in Python
-    - A3C with data parallelism
-    - A3C with gradients parallelism
+  - DQN (Deep Q-Network)
+  - Exercise #4
+    - DQN
 - Week 8 (9/11)
-  - AlphaGo Zero
-    - Board games
-    - The AlphaGo Zero method
-    - The Connect 4 bot
-    - Connect 4 results
-
+  - Assignment #2 (LunarLander-v0)
+    - DQN
 
 ## How To Contribute
 
