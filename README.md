@@ -38,7 +38,7 @@
   - Exercise #1
     - Policy Iteration
     - Value Iteration
-- Week 3 (8/7) [[Lecture]](./1%20-%20Lecture/210807%20-%20Introduction%20to%20RL%2C%20Week%203.pdf)
+- Week 3 (8/7) [[Lecture]](./1%20-%20Lecture/210807%20-%20Introduction%20to%20RL%2C%20Week%203.pdf) [[Code]](./2%20-%20Code/210807%20-%20Introduction%20to%20RL%2C%20Week%203)
   - Policy Evaluation
     - Monte-Carlo Prediction
     - Temporal-Difference Prediction
