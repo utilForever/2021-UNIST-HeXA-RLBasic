@@ -49,7 +49,7 @@
     - SARSA
     - Q-Learning
 - Week 4 (8/14)
-  - Assignment #1 (Maze)
+  - Assignment #1 (Maze) [[Assignment]](./3%20-%20Assignment/210814%20-%20Maze)
     - SARSA
     - Q-Learning
 - Week 5 (8/21)
