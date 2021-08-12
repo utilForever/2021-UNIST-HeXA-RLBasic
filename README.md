@@ -75,7 +75,7 @@
   - Exercise #4
     - DQN
 - Week 8 (9/11)
-  - Assignment #2 (LunarLander-v0)
+  - Assignment #2 (LunarLander-v2)
     - DQN
 
 ## How To Contribute
