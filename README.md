@@ -52,7 +52,7 @@
   - Assignment #1 (Maze) [[Assignment]](./3%20-%20Assignment/210814%20-%20Maze)
     - SARSA
     - Q-Learning
-- Week 5 (8/21)
+- Week 5 (8/21) [[Lecture]](./1%20-%20Lecture/210821%20-%20Introduction%20to%20RL%2C%20Week%205.pdf)
   - Deep Learning with PyTorch
     - What is PyTorch?
     - PyTorch Tutorial
