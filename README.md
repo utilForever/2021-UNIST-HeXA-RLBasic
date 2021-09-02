@@ -64,7 +64,7 @@
   - Exercise #3
     - Deep SARSA
     - REINFORCE
-- Week 7 (9/4)
+- Week 7 (9/4) [[Lecture]](./1%20-%20Lecture/210904%20-%20Introduction%20to%20RL%2C%20Week%207.pdf)
   - DQN (Deep Q-Network)
   - Exercise #4
     - DQN
