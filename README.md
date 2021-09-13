@@ -68,7 +68,7 @@
   - DQN (Deep Q-Network)
   - Exercise #4
     - DQN
-- Week 8 (9/11)
+- Week 8 (9/11) [[Assignment]](./3%20-%20Assignment/210911%20-%20LunarLander)
   - Assignment #2 (LunarLander-v2)
     - DQN
 
